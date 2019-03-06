@@ -1,3 +1,11 @@
+## Feel Free to use this code
+
+This project consists of a quote generator that is displayed on a page type landing page.
+
+The code is base in a project made by juanpablogdl and it has been modified by me
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
