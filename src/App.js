@@ -27,7 +27,7 @@ function App() {
   const [frase, obtenerFrase] = useState({})
   const consultarAPI =  async () => {
     //const resultado = await axios ('http://breaking-bad-quotes.herokuapp.com/v1/quotes')
-    const resultado = await axios ('./citas.json')
+    const resultado = await axios ('citas.json')
     
     // agregar el resultado de la API al state
     obtenerFrase(resultado.data[numeroAle]);
