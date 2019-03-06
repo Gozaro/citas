@@ -1,0 +1,253 @@
+[
+{
+"id": 1,
+"texto": "How I choose to feel is how I'm",
+"autor": "Perl Jam"
+},
+{
+"id": 2,
+"texto": "Un hombre con una idea es un loco hasta que triunfa",
+"autor": "Mark Twain – Escritor"
+},
+{
+"id": 3,
+"texto": "No puedo entender porqué la gente está asustada con las nuevas ideas. Yo lo estoy de las viejas",
+"autor": "John Cage – Filófoso y compositor"
+},
+{
+"id": 4,
+"texto": "Al final, o eres diferente… o eres barato",
+"autor": "Guy Kawasaki – Apple evangelist"
+},
+{
+"id": 5,
+"texto": "No es lo mismo estar dormido que estar durmiendo, como no es lo mismo estar jodido que estar jodiendo",
+"autor": "Camilo José Cela"
+},
+{
+"id": 6,
+"texto": "Prefiero mirar al futuro y soñar, que mirar al pasado y arrepentirme",
+"autor": "James Van Praagh"
+},
+{
+"id": 7,
+"texto": "Sólo hay dos momentos perfectos para plantar un árbol, hace 20 años y ahora",
+"autor": "Proverbio chino"
+},
+{
+"id": 8,
+"texto": "No innovar para ahorrar costes, es como parar el reloj para ahorrar tiempo",
+"autor": "Audi"
+},
+{
+"id": 9,
+"texto": "The difference between reason and emotion is rational leads to conclusions, emotion leads to action",
+"autor": "Un neurólogo"
+},
+{
+"id": 10,
+"texto": "IF YOU WANT TO SPEAK TO EVERYONE, SPEAK TO SOMEONE",
+"autor": "Sacado de BBH Labs"
+},
+{
+"id": 11,
+"texto": "Si hubiera preguntado a la gente qué querían, me habrían dicho que un caballo más rápido",
+"autor": "Henry Ford"
+},
+{
+"id": 12,
+"texto": "Si hubiera una única verdad, no sería posible pintar cientos de cuadros sobre el mismo tema",
+"autor": "Pablo Picasso"
+},
+{
+"id": 13,
+"texto": "Cada vez que se ama, es la única vez que se ha amado nunca",
+"autor": "OSCAR WILDE"
+},
+{
+"id": 14,
+"texto": "Cuando vayas a cualquier sitio piensa: Cualquier sitio que vayas es mejor sitio porque estás tú",
+"autor": "Alguien"
+},
+{
+"id": 15,
+"texto": "La atención es el nuevo cociente intelectual",
+"autor": "Gregorio Luri, maestro"
+},
+{
+"id": 16,
+"texto": "Pide que el camino sea largo",
+"autor": "Alguien"
+},
+{
+"id": 17,
+"texto": "Si te jubilas para pasar más tiempo con tu familia, consulta a tu familia primero",
+"autor": "Letterman (respecto a su retirada en 2015)"
+},
+{
+"id": 18,
+"texto": "It is not titles that honor men, but men that honor titles",
+"autor": "Niccolo Machiavelli"
+},
+{
+"id": 19,
+"texto": "What we lost in the fire, we found in the ashes",
+"autor": "Sam Chisolm"
+},
+{
+"id": 20,
+"texto": "Cárceles y caminos, hacen amigos",
+"autor": "Alguien"
+},
+{
+"id": 21,
+"texto": "Mi abuelo decía que lo importante era siempre saber a dónde se quería llegar, que una vez sabiendo eso todo lo demás se iría resolviendo",
+"autor": "Cita de la película salvando al soldado Pérez"
+},
+{
+"id": 22,
+"texto": "Un adulto creativo es un niño que ha sobrevivido",
+"autor": "Alguien"
+},
+{
+"id": 23,
+"texto": "La distancia más corta entre dos personas son las historias",
+"autor": "Daniel Calabuig"
+},
+{
+"id": 24,
+"texto": "Un amigo es una imagen que tienes de ti mismo",
+"autor": "Anais Nin"
+},
+{
+"id": 25,
+"texto": "A veces uno sabe de qué lado estar, simplemente viendo quienes están de otro lado",
+"autor": "Leonard Cohen"
+},
+{
+"id": 26,
+"texto": "Religion is for people who fear hell, spirituality is for people who has been there",
+"autor": "David Bowie"
+},
+{
+"id": 27,
+"texto": "El secreto de la felicidad no es hacer siempre lo que se quiere, sino querer siempre lo que se hace",
+"autor": "Alguien"
+},
+{
+"id": 28,
+"texto": "Quan estimes el que tens, tens tot el que vols",
+"autor": "Chiringuito Monchos"
+},
+{
+"id": 29,
+"texto": "Estaremos muertos toda la eternidad",
+"autor": "Alguien"
+},
+{
+"id": 30,
+"texto": "We all die. The goal isn't to live forever, the goal is to create something that will",
+"autor": "Chuck Palahniuk, Diary"
+},
+{
+"id": 31,
+"texto": "In the future, everyone will be world-famous for 15 minutes",
+"autor": "Andy Warhool"
+},
+{
+"id": 32,
+"texto": "Every act of creation is first of all an act of destruction",
+"autor": "Pablo Picasso"
+},
+{
+"id": 33,
+"texto": "Creemos comer alimentos, pero comemos emociones",
+"autor": "Ada Parellada"
+},
+{
+"id": 34,
+"texto": "Si nunca has estado abajo, ¿cómo vas a levantarte?",
+"autor": "James Brown"
+},
+{
+"id": 35,
+"texto": "Electrones: Si somos un conjunto de electrones que al agruparse por una fuerza nos convierten en lo que somos, quizás esos electrones o una parte de ellos se agrupen con otros y formen otras realidades",
+"autor": "Alguien"
+},
+{
+"id": 36,
+"texto": "El universo podría ser una constante sístole y diástole",
+"autor": "Sonia Fernandez Vidal"
+},
+{
+"id": 37,
+"texto": "Nothing exists except atoms and empty space everything else is an opinion",
+"autor": "Alguien"
+},
+{
+"id": 38,
+"texto": "Ideas are like rabbits. You get a couple and learn how to handle them, and pretty soon you have a dozen",
+"autor": "John Steinbeck"
+},
+{
+"id": 39,
+"texto": "Color is the skin of the world",
+"autor": "Sonia Delaunay"
+},
+{
+"id": 40,
+"texto": "Algunas veces se gana otras se aprende",
+"autor": "Alguien"
+},
+{
+"id": 41,
+"texto": "Resistir es existir",
+"autor": "Win Wenders"
+},
+{
+"id": 42,
+"texto": "The meeting of two personalities is like the contact of two chemical substances; if there is any reaction, both are transformed",
+"autor": "Carl Jung"
+},
+{
+"id": 43,
+"texto": "Mira y aprende",
+"autor": "Yo"
+},
+{
+"id": 44,
+"texto": "Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas",
+"autor": "Albert Einstein"
+},
+{
+"id": 45,
+"texto": "Information is cheap, meaning is expensive",
+"autor": "Alguien"
+},
+{
+"id": 46,
+"texto": "Any sufficiently advanced technology is indistinguishable from magic",
+"autor": "Clarke's third law"
+},
+{
+"id": 47,
+"texto": "No hay nada imposible en el mundo de los unos y ceros",
+"autor": "Yo"
+},
+{
+"id": 48,
+"texto": "Los fumadores pasivos deberían pagar impuestos porque funan de nuestro dinero",
+"autor": "Joaquin Sabina"
+},
+{
+"id": 49,
+"texto": "Logic is the art of no contradiction",
+"autor": "Alguien"
+},
+{
+"id": 50,
+"texto": "Noise is any pattern we don't understand",
+"autor": "Raph Coster"
+}
+
+]
