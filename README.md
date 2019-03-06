@@ -2,9 +2,9 @@
 
 This project consists of a quote generator that is displayed on a page type landing page.
 
-The code is base in a project made by juanpablogdl and it has been modified by me
+The code is base in a project made by https://github.com/juanpablogdl 
 
-
+The project is developed in React using Hooks.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
